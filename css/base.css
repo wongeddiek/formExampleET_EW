@@ -1,0 +1,11 @@
+/* BASE CSS */
+/*EW: background gradient to page container in ids.css*/
+body {
+  margin: 0;
+  padding: 0;
+  /*height: 100vh;*/
+  color: #FFF;
+
+
+  font-family: 'Roboto', sans-serif;
+}
